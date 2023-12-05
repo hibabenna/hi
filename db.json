@@ -1,0 +1,11 @@
+{
+"variants": [
+        {
+          "id": 2001,
+          "quantity": 50,
+          "product": "Cinderella",
+          "href": "/cinderellaStory",
+          "inventory": 100,
+       }
+]
+}
